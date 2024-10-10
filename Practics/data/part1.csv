@@ -1,0 +1,230 @@
+Fullname,Gender,Age,Skills,Company,Salary (SEK),Location,Registration Date
+Martha Rice,female,54,Mathematical Modeling; AutoCAD; Analytics; Ruby; Blender; HTML,Jump Networks,27000,69.68208076105853; 18.943532302418394,2023-05-27
+Elise Walker,female,40,Algorithms; HTML; Mathematics; Cloud Computing,Classic Games,42000,63.43105692397226; 10.39870699499036,2023-05-13
+Connie Hardin,female,22,HTTP; C++; Node.js; Knowledge Base,Online Anywhere,51000,60.390544887988796; 5.325780364100125,2023-05-16
+Ashley Duron,female,42,Hardware; Elasticsearch; SQL,ShadowFactor Software,33000,59.9093490504594; 10.743191255887776,2023-09-27
+Christina Davidson,female,25,Node.js; Python,Softway Systems,24000,69.68113280403044; 18.943559675537102,2023-03-24
+Sue Melton,female,49,NoSQL; MySQL; Python; SQL,Jump Networks,42000,59.91525633916117; 10.74086631943329,2023-08-22
+Rochelle Boyett,female,36,Knowledge Base; Software Development; Celery; Symbolic Programming; Cloud Computing,Softimage,27000,63.42838483010294; 10.392900910625185,2023-08-30
+Nannie Lopez,female,41,Data Analytics; MySQL; JavaScript; SQL,Network Managers,30000,68.4357797181504; 17.397691457232707,2023-04-26
+Christine Roberts,female,36,Stress resistance; Public Speaking; Business Intelligence; Teamwork skills; UML; Management,NextBase,42000,68.43656744672668; 17.40212575475658,2023-01-06
+Eleanor Sivels,female,33,Python; Сlassification; scikit-learn,Jump Networks,51000,59.91704610677902; 10.73944646371231,2023-09-09
+Etta Stiles,female,39,Dynamic programming; MS Office; Data Structures; C; HTML,Clearleap,39000,69.68352340316503; 18.94883486089562,2023-09-27
+Ines Stone,female,40,Computer Science; MS Office; Python; Tensorflow; Сlassification,Colusa Software,45000,59.909815962032674; 10.738933276023996,2023-07-16
+Kathleen Barry,female,47,CMS; Hardware; Adobe After Effects,Orion Network Systems,51000,59.91267889799444; 10.739474275178486,2023-01-30
+Susanna Mazza,female,34,Computer Science; Сlustering; Python; Knowledge Base,Colusa Software,54000,60.38805148780191; 5.334739139335527,2023-07-07
+Sherry Riley,female,31,Pillow; Image segmentation; OpenCV; HTML; Python,Jump Networks,27000,63.42691073368295; 10.391591340810848,2023-02-06
+Mark Nelson,male,28,Debugging; Python; Software Development; Distributed Computing,NextBase,30000,68.43651216096386; 17.400489523857868,2023-09-18
+Carlos Marlowe,male,32,Knowledge Base; C++; GIMP; Inkscape,Softimage,27000,69.68189343335021; 18.948415022565598,2023-02-16
+Gladys Murillo,female,35,Knowledge Base; Ruby; Kafka; Ansimble; Python,Orion Network Systems,39000,58.968835963550035; 5.732885453356827,2023-09-24
+Tina Edelman,female,30,Financial Analysis; iOS; Teamwork skills; Ability to lead people; UML,Online Anywhere,75000,60.39222689236087; 5.330801247081142,2023-08-14
+Desiree Smith,female,40,JavaScript; Celery; MS Office; Cloud Computing,NextBase,45000,69.6813647268154; 18.94469574031784,2023-03-04
+Jeannette Brack,female,36,MapReduce; R; Debugging; Software Development; Celery; Java,Online Anywhere,54000,59.90947495393559; 10.749407506951883,2023-05-30
+Mitzi Wilkinson,female,41,Dynamic programming; Algorithms,Jump Networks,39000,59.91073112504651; 10.741461991173148,2023-07-29
+Phillip Mahar,male,29,Testing; Debugging; Symbolic Programming; CSS; Distributed Computing,Classic Games,33000,58.9738171951235; 5.733551469071813,2023-07-16
+Alicia Valle,female,28,AutoCAD; Mathematical Modeling; Blender,Classic Games,24000,60.391093731021755; 5.332712488824333,2023-08-25
+Elizabeth Candler,female,38,UI/UX; R; Adobe Photoshope; HTML; Mathematics,"Talko, Inc.",33000,67.28356169555761; 14.377208845071802,2023-06-08
+Stephen Green,male,42,Keras; Regression Analysis; C++; Ruby; AdaBoost; Statistics; Python,Classic Games,48000,68.43467632596054; 17.402698659023155,2023-05-12
+Brian Oconnor,male,26,Stress resistance; Responsible; Ability to lead people; BPMN; Business Analysis,Colusa Software,36000,59.91175544144405; 10.743722947742961,2023-06-18
+Heather Febus,female,26,C#; Celery; Parallel Processing; Cloud Computing; MacOS,Softimage,36000,69.68299011706353; 18.944011602865807,2023-01-11
+Lynn Anderson,female,34,MySQL; MS Office; Oracle; SQL,Classic Games,30000,60.39451870307269; 5.335755512502161,2023-03-28
+Sherryl Givens,female,42,Abstract thinking; Diplomacy skills; Business Planning; BPMN; Finance,Sendit,36000,60.38900032170058; 5.328740997841341,2023-07-25
+Douglas Rhea,male,36,Statistical Modeling; AutoCAD; Analytics; 3dMax; Blender; C; CSS,Softimage,39000,69.68285392069451; 18.948685216632658,2023-07-25
+Terresa Skinner,female,46,Parallel Processing; Java; C,Sendit,27000,63.428549046885855; 10.390151658419876,2023-05-30
+Sandy Lindsey,female,33,Ruby; Data Mining; Python; Сlassification,Teacher Gaming LLC,54000,63.4231378076686; 10.389245109785099,2023-05-24
+Rodney Cook,male,36,Puppet; Spark; VM; MS Office,Orion Network Systems,45000,60.388078464472066; 5.331687792397819,2023-05-21
+Maryellen Taylor,female,35,GIMP; Figma; Design,Classic Games,39000,59.91339015022813; 10.73715874646996,2023-01-28
+Roger Dickerson,male,32,SQL; DBMS; Ruby; Java; Linux,NextBase,30000,69.68897309094946; 18.949652436868224,2023-01-17
+Rob Cruz,male,24,Communication skills; Business Services; Responsible; Teamwork skills; Business Process,FASA Interactive,27000,58.969149610140114; 5.7386560193515805,2023-04-16
+Rhonda Miller,female,33,Matlab; Blender; Statistical Modeling; MS Office,Teacher Gaming LLC,33000,63.436758664673675; 10.38922274469652,2023-01-15
+Florence Cason,female,42,Celery; Trello; Software Development; Cloud Computing,Classic Games,39000,68.43737551077656; 17.400766232582438,2023-01-30
+Mai Todd,female,36,Image segmentation; Pillow,Sendit,30000,60.38689818672678; 5.325425340291569,2023-08-16
+John Henry,male,32,AdaBoost; Python; Outlier detection,Classic Games,39000,59.91373408666452; 10.740702226053124,2023-05-31
+Manuela Guerra,female,44,HTTP; Network Administration; Slack,GeoCities,39000,69.67913558653747; 18.94398248250638,2023-05-08
+Rebecca Buchanan,female,26,OpenCV; HTML; Yolo; CNN,Softway Systems,33000,63.42624669379012; 10.388548518621267,2023-06-08
+Magdalena Dominick,female,61,Data Science; JavaScript; Neural networks; CSS; Python; Сlassification; scikit-learn,Sendit,36000,69.68092624173032; 18.94247540160831,2023-03-27
+Donald Barrow,male,24,Matlab; MongoDB; SQL; Knowledge Base,"Talko, Inc.",30000,59.91163755153868; 10.740406622416135,2023-09-25
+John Carr,male,50,Abstract thinking; Creative thinking; iOS; Financial Risk; Business Intelligence; BPMN,Jump Networks,36000,58.96970449264637; 5.728138281716418,2023-08-30
+Kelly Turner,female,37,R; Object tracking; MS Office; Computer Vision; Python; Filtering,Softimage,30000,63.42674977208424; 10.395793641998583,2023-07-04
+Marie Stewart,female,63,Pillow; C++,Colusa Software,27000,63.431503331851275; 10.392497820226872,2023-07-22
+Nancy Forgey,female,27,Computer Vision; OpenCV; Object Detection; Java,Colusa Software,30000,59.91555057746654; 10.738565271891126,2023-08-18
+Mable Fundora,female,22,Time Series; Data Science; C#; Java; Neural networks; Python; NumPy,Online Anywhere,42000,60.38931543997422; 5.332303289626588,2023-09-26
+Teresa Hunt,female,28,AutoCAD; Knowledge Base; Statistical Modeling,Sendit,27000,58.97307330884196; 5.735318687957898,2023-03-15
+Shirley Smith,female,43,Сlustering; Forecasts; Theano; Python; Outlier detection,Clearleap,39000,63.425873827264574; 10.396401875509243,2023-08-26
+Michael Hall,male,31,Ansimble; CI/CD; Docker; Kafka,Teacher Gaming LLC,36000,59.91272531444622; 10.738671770965945,2023-01-26
+Susan Roach,female,33,AutoCAD; Mathematical Modeling; Blender; Mathematics,Sendit,30000,63.42563494729095; 10.39822736836099,2023-06-11
+Brian Rosson,male,46,Kubernetes; Architecture; JavaScript; Linux; HTML,NextBase,48000,69.68227377631719; 18.946355112756606,2023-05-17
+George Ingham,male,64,Data Analytics; MySQL; SQL; DBMS; HTML,Sendit,24000,63.42547976781893; 10.396854834560205,2023-05-19
+Willie Guerrero,female,41,Mathematics; Python; Keras; Сlassification,Jump Networks,36000,58.97037359189199; 5.7302255534287285,2023-01-05
+Lisa Arguellez,female,33,Adobe After Effects; Trello; Adobe Illustrator; Ruby; Java; Art,ShadowFactor Software,24000,69.68330370530751; 18.94086817791956,2023-01-15
+Jennifer Macy,female,58,Celery; R; C++; Symbolic Programming,Network Managers,33000,60.38248671229227; 5.32592175140011,2023-06-17
+Roberta Prioleau,female,38,Ruby; Debugging; Distributed Computing; Slack,Colusa Software,45000,60.38838323516261; 5.329446207765216,2023-03-07
+Julia Zavala,female,27,MongoDB; SQL; DBMS; R; iOS; Matlab,NextBase,36000,69.6811336186898; 18.94262229605389,2023-01-13
+Jane Hicks,female,57,Data Science; Regression Analysis; JavaScript; C; Hardware; Python; scikit-learn,Teacher Gaming LLC,30000,67.2916723018843; 14.375338834851549,2023-02-23
+August Barr,male,38,Communication skills; Business Analysis; Teamwork skills; Ability to lead people; Slack; Business Services; Finance,Sendit,45000,60.386895453271464; 5.329414481369715,2023-02-28
+Virginia Howell,female,42,R; Apache Airflow; VM,Teacher Gaming LLC,36000,58.96698387577682; 5.734061931187635,2023-03-18
+Carol Welsh,female,23,Abstract thinking; Creative thinking; IDEF; Analytics; Responsible; Finance,Online Anywhere,39000,60.393884946462215; 5.333162297415196,2023-03-23
+Pamela Bernstein,female,52,Communication skills; Creative thinking; Financial Reporting; Business Intelligence; Ability to lead people; BPMN,ShadowFactor Software,45000,60.386883775080015; 5.330658130047319,2023-09-29
+Christopher Bolden,male,25,Dynamic programming; MapReduce; Symbolic Programming,Softway Systems,30000,69.68387224520926; 18.94432228781984,2023-08-15
+Virginia Mullenax,female,38,JavaScript; Node.js; Matlab,NextBase,51000,60.3911320702364; 5.326300504326021,2023-01-29
+Angelica Souza,female,33,Parallel Processing; Python; Symbolic Programming; Ruby,ShadowFactor Software,36000,59.91385666897622; 10.73681820257993,2023-05-27
+Patricia Newman,female,41,C++; Spark; Docker; Puppet; VMware,ShadowFactor Software,51000,69.68457771974735; 18.9431186948078,2023-01-19
+Felix Medina,male,46,PyTorch; Regression Analysis; R; Linux; CSS; Python; Tensorflow,GeoCities,45000,63.427067603704295; 10.3929773328216,2023-05-30
+Kathleen Brunetti,female,26,UI/UX; Adobe Photoshope; Matlab; Typography; HTML,Orion Network Systems,27000,63.430589470775324; 10.393505905922282,2023-03-29
+Timothy Everette,male,34,PyTorch; Deep learning; Python,NextBase,45000,58.97142341851054; 5.734611905178327,2023-04-30
+Delia Godzik,female,32,Abstract thinking; Business Analysis; Mathematics; Business Services; Responsible; Public Speaking; Business Process,Aspect Software Engineering,36000,59.91475585394902; 10.74250149728522,2023-03-11
+Vilma Nichols,female,26,UI/UX; CMS; Typography; Hardware; GIMP; Python,Teacher Gaming LLC,24000,59.90786063086472; 10.736031476938612,2023-04-16
+Darlene Rivers,female,24,C#; MySQL; Oracle; SQL,Sendit,21000,68.43385163776621; 17.39677098374786,2023-08-25
+Mary Maguire,female,31,R; SQL; Elasticsearch; Grafana,Sendit,27000,67.27725998894073; 14.375610318677941,2023-08-31
+Marguerite Mills,female,29,Yolo; MS Office; Image segmentation; Matlab; CNN,Classic Games,36000,59.91283115618783; 10.740437938647725,2023-06-05
+Danielle Piccirillo,female,49,Mathematical Modeling; Mathematics; AutoCAD; Statistical Modeling,Softimage,33000,60.39221014603764; 5.333404458957138,2023-07-17
+Larry Scott,male,50,IDEF; Diplomacy skills; Finance; Stress resistance,Sendit,36000,58.96714266586421; 5.7313892749640765,2023-02-07
+Joan Prater,female,33,JQuery; UI/UX; C#; TCP/IP,Jump Networks,39000,67.28156445804646; 14.373622989430123,2023-05-17
+Ada Ebert,female,24,Stress resistance; Financial Reporting; Knowledge Base; Business Intelligence; Teamwork skills; Ability to lead people; Public Speaking; BPMN,Sendit,30000,60.39431809511961; 5.331075182396845,2023-04-18
+Francis Vieyra,male,40,PyTorch; Java; Theano; Python; Outlier detection,ShadowFactor Software,57000,59.91062393619213; 10.737478698858,2023-06-04
+Jenae Lowder,female,40,Analytics; Parallel Processing; Mobile Development; Matlab; Distributed Computing; Cloud Computing,Sendit,24000,67.28690774851457; 14.374000792959361,2023-05-04
+Sylvia Hewitt,female,32,Communication skills; IDEF; Knowledge Base; UML; Management,Softimage,45000,59.91622122550905; 10.738462241520827,2023-03-16
+Ed Rangel,male,52,Pillow; C++; iOS,Sendit,27000,63.42972591982859; 10.392897045032695,2023-04-07
+David Williams,male,36,Abstract thinking; iOS; Business Strategy; Ability to lead people; BPMN; Finance,Sendit,33000,63.43018104632972; 10.395241464712715,2023-04-14
+Robert Yang,male,35,PyTorch; Regression Analysis; Statistics; Python; Tensorflow,Online Anywhere,57000,59.91549139808012; 10.736833859731648,2023-03-19
+Elizabeth Silva,female,64,Neural networks; Machine learning; Python,GeoCities,45000,60.38997253913423; 5.331932395301984,2023-03-16
+Burt Schell,male,26,Jenkins; Apache Impala,Jump Networks,36000,58.9666638840391; 5.732758804454851,2023-04-26
+Claudette Winkleman,female,31,R; Chef; Hardware; Apache Impala,Aspect Software Engineering,36000,59.91375076266758; 10.737188965261996,2023-02-12
+Valerie Caulder,female,60,Communication skills; Diplomacy skills; Business Strategy; Business Analysis; Management,Classic Games,36000,59.90804838405162; 10.738771460696602,2023-06-09
+Maria Thomson,female,41,MongoDB; SQL; NoSQL; Grafana; JavaScript; Hardware,Clearleap,39000,59.90787454466128; 10.735475923170268,2023-09-06
+Ruth Clayton,female,35,Image segmentation; Slack; CSS; Object Detection; Python; Filtering,GeoCities,48000,60.39326368398954; 5.3304322000937665,2023-04-09
+Chris Rothwell,male,28,Kubernetes; R; Trello; Ruby; Maven; VMware,Classic Games,36000,63.430671853980066; 10.395477405878218,2023-05-31
+Mike Schreiber,male,36,MapReduce; Python; Distributed Computing,NextBase,39000,60.386463489217526; 5.323356254992933,2023-05-30
+Charles Jimenez,male,39,C#; Software Development; Matlab; Cloud Computing,Teacher Gaming LLC,42000,58.97064323743057; 5.7366381056141575,2023-05-12
+Lue Mcjunkin,female,37,DBMS; Linux; SQL,GeoCities,30000,59.92129004270732; 10.737602606023906,2023-09-16
+Peter Morel,male,34,Mathematical Modeling; 3dMax; Statistical Modeling; C,Online Anywhere,42000,59.9201008416886; 10.740817162028694,2023-06-25
+Dudley Kearns,male,29,Testing; Knowledge Base; Data Structures; Java; Matlab,Orion Network Systems,33000,63.434463032823366; 10.39221478924872,2023-06-04
+Thomas Brown,male,32,Image segmentation; OpenCV; C#; Slack,Orion Network Systems,33000,59.909263189176414; 10.736534203105737,2023-04-24
+Virginia Barnes,female,48,JQuery; C++; JavaScript; React; HTML,Aspect Software Engineering,48000,59.91768358029109; 10.737851408475755,2023-07-06
+Jeremy Palermo,male,39,Operating Systems; Adobe After Effects; Design; Ruby; Figma; Python,Softimage,27000,63.434388628236874; 10.39416946430701,2023-09-04
+Linda Kragt,female,47,Maven; Hardware; Ansimble; HTML,Online Anywhere,63000,58.97502100604531; 5.730113144734774,2023-07-22
+Carol Alvarez,female,30,MySQL; SQL; NoSQL; Analytics; Elasticsearch,Colusa Software,33000,68.43607449423499; 17.396694150711344,2023-07-25
+Sarai Garabedian,female,42,JQuery; Network Administration; C; HTML; Python,Orion Network Systems,36000,60.388479616647054; 5.3298787873085365,2023-07-07
+Carlo Moore,male,30,MongoDB; SQL; NoSQL; R; Analytics; Elasticsearch; C,Classic Games,33000,69.6804962638431; 18.948024683345153,2023-08-20
+Marilyn Perry,female,24,Design; Matlab; Figma; GIMP; Python,Colusa Software,33000,58.96697382399373; 5.729464562097475,2023-07-13
+Trent Hooker,male,43,Parallel Processing; Dynamic programming; Mathematics,ShadowFactor Software,45000,63.43456240428682; 10.394866410581935,2023-07-16
+Lessie Hinson,female,26,Regression Analysis; R; Ruby; Machine learning; Slack; Python,Jump Networks,30000,69.68194866092415; 18.944677031950658,2023-02-21
+Donald Burks,male,32,AutoCAD; Analytics; Statistical Modeling,NextBase,30000,63.43358848295772; 10.391782685830151,2023-01-22
+Jean Perez,female,29,JavaScript; Computer Vision; C++; CNN,ShadowFactor Software,24000,60.384739937983326; 5.332949261443232,2023-04-08
+Lucie Farber,female,29,Operating Systems; Apache Hadoop; Kubernetes; Hadoop; Architecture,Sendit,27000,69.68470001123376; 18.943427296028535,2023-04-06
+Kelly Chapin,female,38,Jenkins; Kafka; JavaScript; Apache Airflow; Slack,GeoCities,57000,59.915089098086604; 10.738136601325891,2023-07-25
+Mary Leskovec,female,42,Java; Software Development; Distributed Computing,GeoCities,33000,60.388898659420114; 5.325411093802488,2023-07-03
+Bertha Challenger,female,56,Computer Vision; Filtering; Java,ShadowFactor Software,27000,60.389742622711225; 5.329038983694722,2023-04-05
+Verna Budde,female,30,Statistical Modeling; C++; 3dMax; Blender; CSS,Jump Networks,33000,69.68251466274451; 18.944468057090425,2023-05-23
+Barbara Gagliardi,female,32,Communication skills; Financial Analysis; Stress resistance; Business Planning; Business Intelligence; Teamwork skills; Business Services,Teacher Gaming LLC,33000,59.90797303303148; 10.739614195367839,2023-08-17
+Samuel Hildebrant,male,35,Ruby; Adobe Photoshope; Java; Hardware; Art,Softimage,36000,59.91315989158162; 10.739486655707084,2023-07-24
+Joseph Coe,male,33,C++; AdaBoost; Data Mining; Theano; Python; Outlier detection,Fox Software,60000,59.9167448329993; 10.739171438232159,2023-05-01
+Debbie Stewart,female,38,Communication skills; IDEF; Management; Slack; Public Speaking; Business Analysis; Finance,FASA Interactive,39000,67.28675218515889; 14.37738200677869,2023-07-18
+Marion Nottingham,female,62,Ruby; Image segmentation; Matlab; Computer Vision; CNN,Clearleap,30000,63.424538908417354; 10.393122940351086,2023-02-07
+Regina Hurley,female,39,CMS; Adobe Illustrator; Inkscape,Sendit,24000,63.43337112252021; 10.40110844710337,2023-08-13
+Ellen Harmon,female,46,C++; VM; Matlab; CI/CD; Apache Drill,Online Anywhere,42000,58.96920676511086; 5.727048220679611,2023-04-11
+Cleo Wiggins,female,39,Hadoop; Jenkins; VM; C; Maven; Hardware,GeoCities,42000,58.96974215988104; 5.734011285532767,2023-07-17
+Sarah Prudhomme,female,33,MapReduce; MS Office; Algorithms; C; HTML,Jump Networks,45000,59.9165362032105; 10.74136140820827,2023-07-27
+Cindy Cardoza,female,54,CSS; Statistics; Python; Outlier detection,Softimage,42000,59.91643998350204; 10.74184396031316,2023-04-27
+Catherine Maker,female,37,C++; Image segmentation; JavaScript; Filtering; MacOS,Online Anywhere,42000,60.389648481365704; 5.330153863021813,2023-06-04
+Amy Jacinto,female,38,C#; Architecture; Knowledge Base; Git; Matlab; Ansimble,NextBase,45000,60.39134895402738; 5.33227117179546,2023-09-04
+Anastacia Thomas,female,30,Dynamic programming; Software Development; Celery; Java; CSS,Classic Games,30000,69.67723230036795; 18.943906936791322,2023-08-20
+Lori Lawson,female,35,Testing; C++; Mobile Development,Softway Systems,27000,59.90743285904122; 10.739916077268052,2023-01-29
+Jessica Taylor,female,23,R; Hardware; Figma; Typography,Jump Networks,33000,58.96820426175187; 5.732268875514047,2023-04-19
+Frank Hedgecock,male,38,Computer Science; Machine learning; HTML; Python; NumPy; Outlier detection,NextBase,45000,67.28813631322657; 14.37672347831949,2023-02-15
+Tanya Cuevas,female,42,3dMax; Ruby; JavaScript; Statistical Modeling,Online Anywhere,45000,60.387042727945634; 5.335499875813615,2023-06-29
+Peggy Boone,female,27,Adobe Photoshope; UI/UX; Inkscape,Aspect Software Engineering,30000,69.68293500215178; 18.94259151072072,2023-07-23
+Debra Stokes,female,42,Ruby; Java; OpenCV; Computer Vision; Filtering,Classic Games,33000,69.68977107880363; 18.939628206237423,2023-09-05
+Frank Plunkett,male,36,Creative thinking; IDEF; Responsible; Business Intelligence; Public Speaking,"Talko, Inc.",42000,59.91288585057603; 10.737507867991933,2023-03-03
+Manuel Adams,male,23,Git; VM; Slack,Softimage,39000,63.42517401184101; 10.392123722549181,2023-04-07
+Karen Lopez,female,32,C#; UI/UX; Knowledge Base; JavaScript; React,Softimage,36000,67.28506655981494; 14.37413787651906,2023-04-28
+Roberta Fletcher,female,62,Diplomacy skills; Linux; Teamwork skills; Ability to lead people; UML; Business Process; Finance,GeoCities,24000,58.97170372340544; 5.7336387278575955,2023-06-15
+Blanche Cline,female,35,C++; OpenCV; Java; C,Clearleap,30000,59.91278281367703; 10.737557143993449,2023-09-02
+Monica Cole,female,35,Data Science; Regression Analysis; HTML; JavaScript; AdaBoost; Data Mining; Python,Online Anywhere,48000,69.68856036316811; 18.941146525179946,2023-06-15
+Ray Hopkins,male,28,3dMax; Trello; AutoCAD,ShadowFactor Software,27000,63.42873859398714; 10.39474691010339,2023-03-31
+Johnathan Doyle,male,36,R; Deep learning; Neural networks; Machine learning; Сlustering; Python,ShadowFactor Software,39000,69.684389761889; 18.94186486779436,2023-08-08
+Juan Martin,male,32,Dynamic programming; Matlab; Algorithms,Sendit,21000,63.43226194067155; 10.39755164034216,2023-04-05
+Richard Davidson,male,44,Computer Science; AdaBoost; Dimensionality Reduction; Hardware; Python; NumPy,Softimage,45000,63.43259480758072; 10.389999242769838,2023-01-08
+Elizabeth Antoine,female,31,Parallel Processing; MapReduce,FASA Interactive,30000,69.6823858152431; 18.94115299949183,2023-09-12
+Ray Wilson,male,42,Data Analytics; MongoDB; SQL; Trello; Java; Oracle,NextBase,45000,60.38623931142769; 5.330511676554459,2023-04-28
+Andrew Sutton,male,36,R; Forecasts; Data Mining; Python; scikit-learn,Orion Network Systems,48000,60.3913701080378; 5.330451870618744,2023-08-11
+Scott Labelle,male,33,Computer Science; C++; JavaScript; Python; Сlassification,Online Anywhere,54000,59.91387358886937; 10.74177771889706,2023-06-14
+Sandra Ocasio,female,56,Celery,Network Managers,39000,69.68817645896407; 18.94043618848488,2023-07-26
+Addie Farry,female,63,PyTorch; Forecasts; Python; Data Science,Sendit,30000,58.97171972098696; 5.734641629601332,2023-09-18
+Elizabeth Barber,female,28,Forecasts; Theano; Machine learning; Python,Sendit,27000,67.2800651192303; 14.375432548855724,2023-09-27
+Dorothy Purcell,female,24,Testing; R; Software Development; Algorithms; Celery; Python,Softimage,24000,60.3875597361264; 5.330332547293388,2023-04-02
+Christopher Rosario,male,38,Object tracking; Ruby; Java; OpenCV; MacOS,ShadowFactor Software,39000,58.966220037065916; 5.733676823994386,2023-01-09
+Sylvia Chambers,female,50,Mathematical Modeling; 3dMax; Statistical Modeling; C,Teacher Gaming LLC,48000,69.68467418442027; 18.942894030269912,2023-07-06
+Roberta Hall,female,33,Data Analytics; MongoDB; SQL; DBMS; Oracle; HTML; MacOS,Classic Games,33000,69.68003317136422; 18.941874616218207,2023-04-26
+Kevin Curran,male,31,Mathematics; VM; JavaScript; Maven; CI/CD; Apache Impala,GeoCities,36000,60.38926653041104; 5.330861143055745,2023-08-16
+Shannon Blanks,female,27,Slack; Dynamic programming; Distributed Computing; Algorithms,Sendit,30000,59.91119925634999; 10.745177793952758,2023-02-19
+Heidi Sifre,female,25,Network Administration; JavaScript; Linux; Node.js; Python,Sendit,24000,69.68613240855711; 18.946281619980166,2023-06-25
+Cheryl Pollard,female,22,MySQL; MongoDB; SQL; NoSQL; Grafana; JavaScript,Classic Games,27000,63.429565002090406; 10.394678509765408,2023-04-02
+Daniel Hererra,male,28,C; CSS; Kubernetes; Apache Airflow,Sendit,33000,59.91594194162882; 10.73973119777023,2023-05-06
+Bernice Dean,female,44,Kubernetes; HTML; Java; Git; CI/CD,Teacher Gaming LLC,33000,60.386466334507595; 5.328248727082938,2023-04-23
+Christina Lindsay,female,43,Financial Analysis; Stress resistance; Business Planning; Diplomacy skills; Financial Reporting; Financial Risk,Online Anywhere,72000,60.389113368436384; 5.334462980684367,2023-05-23
+Crystal Collins,female,26,Computer Science; Python; Data Science; scikit-learn,Aspect Software Engineering,45000,59.91471790036005; 10.733760000352259,2023-08-23
+Roxanne Hernandez,female,40,GIMP; Figma; Ruby; HTML,GeoCities,42000,59.91365462116372; 10.738958436472796,2023-01-02
+Tera Huffman,female,35,MySQL; MongoDB; SQL; CSS; Python; MacOS,FASA Interactive,27000,58.9717278323324; 5.730772167449233,2023-07-30
+James Goss,male,67,Image segmentation; Computer Vision; Python; MacOS,NextBase,30000,59.90895425693603; 10.735029683602342,2023-04-09
+Gary Richardson,male,48,Mathematical Modeling; AutoCAD,Softimage,45000,58.964522753327294; 5.729737698852187,2023-01-26
+Wilma Bryant,female,45,Maven; Puppet; Trello; CSS,Jump Networks,57000,69.67828406481718; 18.938319218416012,2023-06-03
+Justin Miles,male,24,3dMax; Blender; Python; C,Fox Software,33000,63.42592993909664; 10.39162716853356,2023-04-07
+Susan Brentley,female,26,Financial Analysis; IDEF; Knowledge Base; Responsible; UML,Jump Networks,36000,59.91162037036377; 10.737188142060798,2023-09-09
+Jeremy Coates,male,41,Linux; Deep learning; Machine learning; Python,Sendit,39000,59.91380108033559; 10.74509392452592,2023-07-07
+Danielle Charley,female,52,BPMN; Diplomacy skills; Business Planning; Management,ShadowFactor Software,45000,60.3861994344459; 5.331940956540025,2023-03-01
+Douglas Mosher,male,35,Maven; Ruby; VM,FASA Interactive,39000,63.42995795677523; 10.391861365154524,2023-01-13
+Ryan Nelson,male,26,CI/CD; Git; HTML,Sendit,24000,59.91212778465452; 10.736079445307228,2023-09-01
+Joann Sanchez,female,33,Diplomacy skills; iOS; Financial Reporting; IDEF; Responsible; Business Strategy; Public Speaking; Business Analysis,FASA Interactive,33000,67.27630417508293; 14.375010130809358,2023-09-20
+Sharon Seth,female,42,Data Analytics; SQL; Elasticsearch; JavaScript; Hardware,Softimage,45000,59.913784318361486; 10.741039966416242,2023-04-15
+Janine Gaytan,female,34,Data Science; Regression Analysis; R; Hardware; Python,Teacher Gaming LLC,54000,60.39258921149836; 5.329859411485261,2023-04-23
+Ann Pettit,female,50,C++; R; Yolo; CNN,Teacher Gaming LLC,51000,60.38582664725925; 5.330905096122232,2023-09-03
+Louise Maldonado,female,40,Ansimble; Apache Airflow,Colusa Software,48000,60.38980715961511; 5.334659874331963,2023-03-08
+Ellen Thomason,female,28,VMware; Jenkins; Python; VM,Classic Games,39000,68.43745174357639; 17.398142609799216,2023-03-15
+Rebecca Bell,female,61,JavaScript; Mathematics; Symbolic Programming; Algorithms,Softway Systems,30000,69.68107488112366; 18.94616155770919,2023-05-02
+Tracy Denny,female,39,AutoCAD; Blender; C#; Statistical Modeling,Sendit,24000,58.96999028061347; 5.732051475574525,2023-09-28
+Dana Sproles,female,28,PostgreSQL; MySQL; SQL,Jump Networks,27000,69.6816161843596; 18.941061158641094,2023-04-24
+Kimberly Robles,female,30,Pandas; Deep learning; Statistics; Slack; HTML; Python,Clearleap,36000,68.43520731710522; 17.399657457064073,2023-03-04
+Charlotte Martin,female,41,Regression Analysis; Java; Neural networks; Matlab; Hardware; Python,Teacher Gaming LLC,48000,59.91342185265886; 10.741849537406017,2023-09-24
+Juanita Orr,female,39,Apache Hadoop; JavaScript; Maven; HTML; Mathematics,Colusa Software,45000,58.97104755956738; 5.727345832253711,2023-01-29
+Arlene Williams,female,36,HTTP; R; CSS; TCP/IP,Online Anywhere,42000,58.96853795550098; 5.728678550877085,2023-02-01
+Johnny Hancock,male,37,Adobe Illustrator; HTML; JavaScript; Linux; Art,Classic Games,39000,60.39028112927578; 5.331760678105047,2023-08-28
+Bonnie Harper,female,36,Abstract thinking; Diplomacy skills; Financial Reporting; Public Speaking; Business Intelligence; Slack; UML; Business Services,Classic Games,36000,63.432400582229185; 10.398100497952173,2023-05-04
+Michael Sanders,male,23,R; Adobe Illustrator; MS Office; Adobe Photoshope; Art; Python,Classic Games,30000,63.42981746131847; 10.396515123539784,2023-09-30
+Robert Rodriguez,male,31,Ansimble; C++; HTML; Kafka,Teacher Gaming LLC,39000,60.387843123783426; 5.330117905300893,2023-04-01
+George Dunn,male,32,Diplomacy skills; Business Planning; Business Intelligence; Teamwork skills; BPMN; Management,Jump Networks,36000,60.386386967215344; 5.328965226143335,2023-05-27
+Christopher Nicely,male,42,Diplomacy skills; Stress resistance; Ability to lead people; UML; Business Process,Softimage,39000,68.43464916421526; 17.398147103178523,2023-01-12
+April Lantz,female,58,AutoCAD; 3dMax; Hardware; CSS; HTML,ShadowFactor Software,36000,58.97195166556468; 5.727959039578661,2023-03-15
+Nina Barnes,female,31,MySQL; SQL; DBMS; Grafana; Hardware; HTML; Python,Softimage,33000,59.90877945341148; 10.743255402397379,2023-08-21
+Rhonda Burr,female,24,C++; Jenkins; VM; C; Ansimble; MacOS,NextBase,51000,60.38913514662357; 5.332868128629707,2023-08-14
+Nicholas Hamilton,male,48,Dynamic programming; Algorithms,Sendit,36000,63.42800037961394; 10.392481725319492,2023-09-06
+William Heritage,male,32,Time Series; Keras; Machine learning; Python; Tensorflow,Teacher Gaming LLC,45000,60.38586993612575; 5.337607345924655,2023-04-30
+Zita Ketchie,female,41,HTTP; Django; Python; Angular,Teacher Gaming LLC,33000,60.38373650611105; 5.3323170404862115,2023-05-03
+Robert Quinn,male,43,Operating Systems; MySQL; Oracle; SQL,Classic Games,42000,58.97122402101705; 5.733643737335514,2023-03-03
+Margaret Clemente,female,27,Knowledge Base; Python; Data Science,"Talko, Inc.",30000,67.28242671257885; 14.370857611760245,2023-01-04
+Arlene Mock,female,42,Kubernetes; C++; JavaScript; Chef; Apache Drill,Online Anywhere,60000,60.38957203503165; 5.330388540628639,2023-01-28
+Patricia Lahip,female,35,Computer Science; C#; JavaScript; AdaBoost; Linux; Python; NumPy,Aspect Software Engineering,48000,60.39217342786787; 5.33103673651522,2023-05-20
+Tonya Cherubino,female,33,HTML; Machine learning; Slack; Theano; Python,NextBase,51000,59.91283784338328; 10.738918415486399,2023-07-05
+Marissa Baldwin,female,32,R; Pandas; AdaBoost; Linux; CSS; Python; Tensorflow; Сlassification,Jump Networks,39000,60.391573801365844; 5.329979935215397,2023-01-12
+Alice Ridling,female,36,Slack; Software Development; Distributed Computing; Algorithms,Teacher Gaming LLC,36000,59.91345565268349; 10.743090423268084,2023-08-01
+Gladys Weir,female,28,Сlustering; HTML; Python; NumPy; scikit-learn,Clearleap,48000,67.28231962081912; 14.381500915970813,2023-02-03
+Jacob Mcmorris,male,38,Neural networks; Statistics; C; HTML; Python; Tensorflow,GeoCities,36000,69.68099096973143; 18.94752289252649,2023-07-12
+Jean White,female,42,SQL; NoSQL; DBMS; Grafana; Python; MacOS,ShadowFactor Software,30000,69.68355738492721; 18.94254918555306,2023-01-23
+Emily Martin,female,30,Yolo; C++; C; Computer Vision; Object Detection,Sendit,24000,58.96718760879804; 5.734321955774342,2023-03-15
+George Vieyra,male,51,MongoDB; SQL; R; MS Office; Oracle,Aspect Software Engineering,30000,63.42794468539213; 10.395312554274735,2023-03-22
+Michael Ayers,male,37,Abstract thinking; Stress resistance; IDEF; Business Strategy; Ability to lead people,Fox Software,48000,60.393377954222764; 5.326881036219021,2023-07-23
+Lynette Daniels,female,34,Inkscape; Art; Adobe Illustrator; Typography,Sendit,33000,59.913160755888065; 10.738240820328542,2023-03-30
+Felicia Cobb,female,23,Trello; Elasticsearch; SQL,FASA Interactive,27000,60.39136752234347; 5.330469933912024,2023-03-09
+Glenn Depue,male,40,UI/UX; Art; HTML; Figma; Inkscape,Sendit,27000,63.43351493111161; 10.395849351951263,2023-06-02
+Marjorie Livesay,female,39,NoSQL; MySQL; SQL,Aspect Software Engineering,24000,69.69033006693019; 18.944018223188415,2023-07-10
+Patricia Brett,female,29,UI/UX; Node.js; Angular; Knowledge Base,Softimage,27000,58.96890865565908; 5.734158812613112,2023-05-30
+Linda Manning,female,40,MySQL; SQL; NoSQL; C++; Grafana; JavaScript,ShadowFactor Software,36000,59.91072612589268; 10.739097212130412,2023-07-27
+Maria Hunter,female,43,PyTorch; iOS; AdaBoost; Java; HTML; Python; Сlassification,Teacher Gaming LLC,42000,63.4341845738797; 10.395157014386028,2023-02-20
+Leon Jimenez,male,37,Apache Hadoop; C#; Spark; VMware; Apache Drill,Sendit,39000,68.43333217918035; 17.39999192155686,2023-01-31
+Richard Mcclinton,male,42,C++; R; iOS; AdaBoost; Neural networks; Python,Teacher Gaming LLC,39000,60.38763040823088; 5.337305021508568,2023-06-06
+Jacqulyn Mohler,female,65,Business Planning; iOS; Financial Risk; Business Intelligence; Teamwork skills; Ability to lead people; UML,Softimage,33000,60.38556485414493; 5.3297941071686745,2023-05-03
+Tammy Steiner,female,35,C#; iOS; Python; NumPy; scikit-learn,ShadowFactor Software,36000,67.28687932372316; 14.379984777821678,2023-06-29
+Percy Gomez,male,65,Financial Analysis; Creative thinking; Trello; Business Intelligence; Teamwork skills; Ability to lead people; Business Process; Management,NextBase,36000,67.27951614375415; 14.376622816239733,2023-09-22
+Robert Hanlon,male,33,PostgreSQL; SQL; NoSQL; C#; JavaScript,Teacher Gaming LLC,36000,60.39026915381005; 5.327547383008915,2023-05-02
+Marguerite Jones,female,39,Communication skills; Financial Reporting; Business Services; Analytics; Teamwork skills; Ability to lead people; BPMN; Business Analysis,Clearleap,39000,59.912948265767334; 10.744868041409097,2023-05-21
+Diane Ellis,female,48,Node.js; HTML; Python,Clearleap,45000,59.91285304991666; 10.739064321436459,2023-06-06

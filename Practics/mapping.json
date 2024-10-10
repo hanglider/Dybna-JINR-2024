@@ -1,0 +1,16 @@
+{
+  "settings": {
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "properties": {
+      "registered": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "location": {
+        "type": "geo_point"
+      }
+    }
+  }
+}
